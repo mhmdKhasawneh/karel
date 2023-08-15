@@ -1,0 +1,1 @@
+Dimension: (18, 10)Karel: (1, 1) East
